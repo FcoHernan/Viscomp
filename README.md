@@ -30,7 +30,9 @@
       Para cualquier archivo:
             python "nombre_del_archivo.py" 
       Para el archivo Proyecto final:
-            python "nombre_del_archivo.py" "nombre_dela_imagen.jpg" 
+            python "nombre_del_archivo.py" "nombre_dela_imagen.jpg"
+
+    En la carpeta se encuentran 3 imagenes para probar "1.jpg", "2.jpg" y "3.jpg"
 
 ---------------------------------------------------------------------
 
